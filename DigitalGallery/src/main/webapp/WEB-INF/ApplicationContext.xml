@@ -22,7 +22,7 @@ xmlns:tx="http://www.springframework.org/schema/tx"
         <beans:property name="host" value="smtp.gmail.com" />
         <beans:property name="port" value="587"/>
         <beans:property name="username" value="navneet.hb007@gmail.com" />
-        <beans:property name="password" value="HEERA.NAVI@72" />
+        <beans:property name="password" value="" />
         <beans:property name="javaMailProperties">
             <beans:props>
                 <beans:prop key="smtp.gmail.com">smtp</beans:prop>
